@@ -40,10 +40,10 @@ Github edition with fixed links and added some files and features!<br>Based on t
 > I have archived the original contents tho :)
  - [Rush Patches](https://github.com/burnedpopcorn/GTA-V-src-archive/blob/main/ARCHIVED-PATCHES/rush_patches-master.zip)
  - [DLL Patches](https://github.com/burnedpopcorn/GTA-V-src-archive/blob/main/ARCHIVED-PATCHES/dll_patches_x.zip)
- - (OPTIONAL) [3rdParty Folder (NOT WORKING)](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14733468/3rd.zip)
+ - (OPTIONAL) [3rdParty Folder (LINK NOT WORKING)](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14733468/3rd.zip)
     - Extract and Put the folder to `X:\gta5\`
     - Rename "LitJSON.csproj" to "LitJson.csproj"
- - (OPTIONAL) [Fixed ShortcutMenu (NOT WORKING)](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14735751/fixedshortcut.zip)
+ - (OPTIONAL) [Fixed ShortcutMenu (LINK NOT WORKING)](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14735751/fixedshortcut.zip)
     - Extract and put the folder to `X:\gta5\tools_ng\bin\`
  - (OPTIONAL) [3D Studio Max 2010 SDK](https://archive.org/details/sdk-3ds-max-2010)
 
