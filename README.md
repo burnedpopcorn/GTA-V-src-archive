@@ -36,7 +36,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
     - For editing the game files.
 
 ### Miscellaneous
-(Rust, DLL, and Shaders have had their links changed to to them being broken)
+(Rust, DLL, and Shaders have had their links changed due to them being broken)
 > I have archived the original contents tho :)
  - [Rush Patches](https://github.com/burnedpopcorn/GTA-V-src-archive/blob/main/ARCHIVED-PATCHES/rush_patches-master.zip)
  - [DLL Patches](https://github.com/burnedpopcorn/GTA-V-src-archive/blob/main/ARCHIVED-PATCHES/dll_patches_x.zip)
