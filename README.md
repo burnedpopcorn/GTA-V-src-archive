@@ -2,7 +2,7 @@
 # GTA V Modified Source Code Archive (+ Build Tutorial/Guide)
 
 ### Found this using the Wayback Machine (that website the goat), so ima attempt to archive it and all associated pages AND DOWNLOADS (COMING SOON)
-> Original README contents are left below and unchanged
+> Original README contents are left below and mostly unchanged
 
 Github edition with fixed links and added some files and features!<br>Based on this [rentry.co](https://web.archive.org/web/20240118081251/https://www.rentry.co/gtavbuildguide) tutorial, But this tutorial is better than that.
 
@@ -14,7 +14,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
 ### Base
  - Minimum 150GB Free Space
  - GTA V Files from Steam, Epic Games or Social Club (Minimum v2699)
-    - Cracked Game is not recommended, in my opinion ther are maybe some problems occur. 
+    - Cracked Game is not recommended, as in my opinion problems will most likely occur. 
  - GTAVSP.7z<br>
     - **Want to have the source code? [See Here](/misc/gtavsourcecodelinks.txt) for the links and magnet.**<br>
       - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
