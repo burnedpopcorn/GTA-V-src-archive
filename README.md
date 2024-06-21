@@ -4,7 +4,7 @@
 ### Found this using the Wayback Machine (that website the goat), so ima attempt to archive it and all associated pages AND DOWNLOADS (COMING SOON)
 > Original README contents are left below and unchanged
 
-Github edition with fixed links and added some files and features!<br>Based on this [rentry.co]([https://www.rentry.co/gtavbuildguide](https://web.archive.org/web/20240118081251/https://www.rentry.co/gtavbuildguide)) tutorial, But this tutorial is better than that.<br>
+Github edition with fixed links and added some files and features!<br>Based on this [rentry.co](https://web.archive.org/web/20240118081251/https://www.rentry.co/gtavbuildguide) tutorial, But this tutorial is better than that.<br>
 
 **Working Status:** [See here for the status of tools and the game](/workingstatus.md)
 
